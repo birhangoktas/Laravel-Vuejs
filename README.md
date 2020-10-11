@@ -5,7 +5,7 @@ Laravel de vuejs kurulumu
 composer create-project --prefer-dist laravel/laravel blog
 -------------------------------------------------------------------
 
-Laravel içinde vuejs kurulumu
+Laravel içinde vuejs kurulumu <br>
 composer require laravel/ui --dev
 php artisan ui vue
 php artisan ui vue --auth
